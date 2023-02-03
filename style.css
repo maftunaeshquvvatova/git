@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    }
+    body{
+        background-color: aquamarine;
+        color: brown;
+        margin-left: 30px;
+            }
+            p{
+                color: blue;
+            }
